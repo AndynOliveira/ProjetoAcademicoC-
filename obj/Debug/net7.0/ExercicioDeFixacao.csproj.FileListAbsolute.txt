@@ -1,0 +1,15 @@
+G:\Meu Drive\Curso\CURSO C#\ENUMERACAO E COMPOSICAO\EXCERCICIO RESOLVIDO\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net7.0\ExercicioDeFixacao.exe
+G:\Meu Drive\Curso\CURSO C#\ENUMERACAO E COMPOSICAO\EXCERCICIO RESOLVIDO\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net7.0\ExercicioDeFixacao.deps.json
+G:\Meu Drive\Curso\CURSO C#\ENUMERACAO E COMPOSICAO\EXCERCICIO RESOLVIDO\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net7.0\ExercicioDeFixacao.runtimeconfig.json
+G:\Meu Drive\Curso\CURSO C#\ENUMERACAO E COMPOSICAO\EXCERCICIO RESOLVIDO\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net7.0\ExercicioDeFixacao.dll
+G:\Meu Drive\Curso\CURSO C#\ENUMERACAO E COMPOSICAO\EXCERCICIO RESOLVIDO\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net7.0\ExercicioDeFixacao.pdb
+G:\Meu Drive\Curso\CURSO C#\ENUMERACAO E COMPOSICAO\EXCERCICIO RESOLVIDO\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.csproj.AssemblyReference.cache
+G:\Meu Drive\Curso\CURSO C#\ENUMERACAO E COMPOSICAO\EXCERCICIO RESOLVIDO\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Curso\CURSO C#\ENUMERACAO E COMPOSICAO\EXCERCICIO RESOLVIDO\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.AssemblyInfoInputs.cache
+G:\Meu Drive\Curso\CURSO C#\ENUMERACAO E COMPOSICAO\EXCERCICIO RESOLVIDO\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.AssemblyInfo.cs
+G:\Meu Drive\Curso\CURSO C#\ENUMERACAO E COMPOSICAO\EXCERCICIO RESOLVIDO\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Curso\CURSO C#\ENUMERACAO E COMPOSICAO\EXCERCICIO RESOLVIDO\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.dll
+G:\Meu Drive\Curso\CURSO C#\ENUMERACAO E COMPOSICAO\EXCERCICIO RESOLVIDO\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\refint\ExercicioDeFixacao.dll
+G:\Meu Drive\Curso\CURSO C#\ENUMERACAO E COMPOSICAO\EXCERCICIO RESOLVIDO\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.pdb
+G:\Meu Drive\Curso\CURSO C#\ENUMERACAO E COMPOSICAO\EXCERCICIO RESOLVIDO\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.genruntimeconfig.cache
+G:\Meu Drive\Curso\CURSO C#\ENUMERACAO E COMPOSICAO\EXCERCICIO RESOLVIDO\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\ref\ExercicioDeFixacao.dll
